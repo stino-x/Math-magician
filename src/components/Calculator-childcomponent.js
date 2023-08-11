@@ -7,7 +7,7 @@ export default function Calculatorchildcomp() {
         <button type="button">AC</button>
         <button type="button">+/-</button>
         <button type="button">%</button>
-        <button type="button">^</button>
+        <button type="button">÷</button>
       </div>
       <div className="grid row-2">
         <button type="button">7</button>
