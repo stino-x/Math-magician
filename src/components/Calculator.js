@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import Calculatorchildcomp from './Calculator-childcomponent';
-import calculate from './logic/calculate';
+import calculate from './logic/Calculate';
 import Inputarea from './Inputarea';
 
 export default function Calculator() {
